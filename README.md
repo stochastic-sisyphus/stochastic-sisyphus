@@ -1,5 +1,5 @@
 # Welcome to the mountain. I'm Sisyphus, and this is my boulder.
-## Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sisyphus. 
+### Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sisyphus. 
 ### But that's just semantics. 
 
 My models learn deeply. I, however, remain confused. Constantly losing the battle to the rabbit hole of research, pulled in by algorithms that adapt, systems that optimize, and models that (at the very least) pretend to be intelligent. Some projects reach completion, many stay half-explored and stuck in endless revision, and the rest get abandoned entirely—but nothing’s ever really finished.
