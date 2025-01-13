@@ -10,7 +10,7 @@ An ongoing hypothesis test, confirming that not every idea needs a second iterat
 - **Optimization & adaptive systems**: Search, reinforcement, algorithms that learn and occasionally refuse to behave
 - **Uncertainty & complexity**: Finding patterns in noise, causal inference, making sense of what isn’t obvious
 
-### Tools of the Trade
+### Made Possible by Viewers Like You
 Not a fixed stack, just the things I use (or break) the most:
 - **Machine Learning & AI**: Deep learning, transformers, probabilistic models, graph-based methods
 - **NLP & Language Models**: Fine-tuning, semantic search, multilingual modeling
