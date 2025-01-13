@@ -19,7 +19,7 @@ Not a fixed stack, just the things I use (or break) the most
 ### The Cycle
 If nothing else, the name is accurate. Just me, the boulder, and the incline.
 **Perpetually uphill,**
-*Stochastic Sisyphus*
 
+*Stochastic Sisyphus*
 
 
