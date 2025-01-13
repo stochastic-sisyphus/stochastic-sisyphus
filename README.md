@@ -18,8 +18,8 @@ Not a fixed stack, just the things I use (or break) the most
 - **Data & Systems**: Cloud pipelines, distributed processing, workflow automation
 ### The Cycle
 If nothing else, the name is accurate. Just me, the boulder, and the incline.
-**Perpetually uphill,**
 
+**Perpetually uphill,**
 *Stochastic Sisyphus*
 
 
