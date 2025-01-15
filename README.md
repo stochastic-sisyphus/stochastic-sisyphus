@@ -23,4 +23,3 @@ If nothing else, the name is accurate. Just me, the boulder, and the incline.
 
 *Stochastic Sisyphus*
 
-<a href="https://app.daily.dev/stochasticsisyphus"><img src="https://api.daily.dev/devcards/v2/EYzPVhC9HtX61VuOLqCSn.png?type=default&r=vdq" width="356" alt="stochastic-sisyphus's Dev Card"/></a>
