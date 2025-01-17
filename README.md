@@ -7,19 +7,16 @@ Let’s start with the obligatory passion statement, because that seems necessar
 The machine is learning, under my supervision (of course). Ironically, I remain confused. Recursion: the cause and solution to all my problems. The Sisyphean struggle means rolling the boulder in search of answers at the base, getting lost in thought, then pushing algorithms up the mountain with each iteration. As a masochist, I spend my time optimizing models that refuse to cooperate—because apparently, I find trial and error entertaining. This is a snapshot of ongoing work and the evolution of my projects over time. Most code gets rewritten, some ideas never make it past their first push—an ongoing hypothesis test proving that not every idea deserves a second look.
 ### Typically Focused On:
 High confidence, very predictable
-- **Language models & NLP**: Retrieval, embeddings, multilingual systems, making models understand nuance (or at least fake it)
-- **Optimization & adaptive systems**: Search, reinforcement, algorithms that learn and occasionally refuse to behave
-- **Uncertainty & complexity**: Finding patterns in noise, causal inference, making sense of what isn’t obvious
+- **Machine Learning**: Transformers, semantic search, multilingual modeling, contrastive learning, active learning, probabilistic models, causal inference, reinforcement learning, and algorithms that learn and some that refuse to behave
+- **NLP**: Retrieval, embeddings, language models, making models understand nuance (or at least fake it)
+- **Uncertainty & Complexity**:  Finding patterns in noise, making sense of what isn’t obvious, modeling causal relationships
 ### Made Possible by Viewers Like You:
-Not a fixed stack, just the things I use (or break) the most
-- **Machine Learning & AI**: Deep learning, transformers, probabilistic models, graph-based methods
-- **NLP & Language Models**: Fine-tuning, semantic search, multilingual modeling
-- **Optimization & Experimentation**: Bayesian tuning, reinforcement learning, active learning
-- **Data & Systems**: Cloud pipelines, distributed processing, workflow automation
+Not a fixed stack, just the things I use (or break) the most, a special shoutout to Python
+- **Frameworks**: Python, PyTorch, TensorFlow, Keras, Scikit-Learn, XGBoost
+- **Systems**: Cloud pipelines, distributed processing, deployment, Docker, GPUs
 ### The Cycle
 If nothing else, the name is accurate. Just me, the boulder, and the incline.
 
 **Perpetually uphill,**
 
 *Stochastic Sisyphus*
-
