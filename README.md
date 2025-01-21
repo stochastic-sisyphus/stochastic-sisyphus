@@ -16,19 +16,18 @@
 <td width="50%" valign="top">
 
 
+
 #### Let's start with the obligatory passion statement, because that seems necessary.
 
-<div align="center" style="margin: 25px 0;">
-<kbd style="display: block; padding: 25px; background-color: #f7f7f7; border-radius: 5px; font-size: 1.1em; line-height: 1.5;">
-Machine learning and complex systems provide a dynamic space for transforming abstract ideas into tangible models. In pursuit of knowledge, I'm driven by the endless possibilities of learning (both machine and deep).
-</kbd>
-</div>
+> _Machine learning and complex systems provide a dynamic space for transforming abstract ideas into tangible models. In pursuit of knowledge, I'm driven by the endless possibilities of learning (both machine and deep)._
+
 
 The machine is learning, under my supervision (of course). Ironically, I remain confused. Recursion: the cause and solution to all my problems. 
 
 The Sisyphean struggle means rolling the boulder in search of answers at the base, getting lost in thought, then pushing algorithms up the mountain with each iteration. As a masochist, I spend my time optimizing models that refuse to cooperate—because apparently, I find trial and error entertaining. 
 
 This is a snapshot of ongoing work and the evolution of my projects over time. Most code gets rewritten, some ideas never make it past their first push—an ongoing hypothesis test proving that not every idea deserves a second look.
+
 </td>
 <td width="50%" valign="top">
 
@@ -42,13 +41,17 @@ High confidence, very predictable
 Not a fixed stack, just the things I use (or break) the most, a special shoutout to Python
 - **Frameworks**: Python, PyTorch, TensorFlow, Keras, Scikit-Learn, XGBoost
 - **Systems**: Cloud pipelines, distributed processing, deployment, Docker, GPUs
+
 </td>
 </tr>
 </table>
 
-### The Cycle
-If nothing else, the name is accurate. Just me, the boulder, and the incline.
 
-**Perpetually uphill,**
+  ### The Cycle
+<table> <tr> <td> If nothing else, the name is accurate. Just me, the boulder, and the incline. </td> </tr> </table>
 
-*Stochastic Sisyphus*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perpetually uphill,**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Stochastic Sisyphus*
+
