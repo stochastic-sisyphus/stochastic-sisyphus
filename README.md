@@ -4,8 +4,8 @@
 
 <p align="center">
   <kbd>
-    <img src="https://gist.github.com/user-attachments/assets/720324e4-289e-424a-b18c-65c44303ab35" 
-         width="50%" 
+    <img src="https://gist.github.com/user-attachments/assets/44d3a5c0-de23-40c8-bd61-3bb4ba8102d0" 
+         width="60%" 
          alt="banner img or whatever"
     />
   </kbd>
