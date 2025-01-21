@@ -5,7 +5,7 @@
 <p align="center">
   <kbd>
     <img src="https://gist.github.com/user-attachments/assets/d15897d2-a4e8-4f17-a89a-fc8390f6061e" 
-         width="70%" 
+         width="60%" 
          alt="banner img or whatever"
     />
   </kbd>
