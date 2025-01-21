@@ -4,10 +4,10 @@
 
 <p align="center">
   <img src="https://gist.github.com/user-attachments/assets/d15897d2-a4e8-4f17-a89a-fc8390f6061e" 
-       width="60%" 
+       width="70%" 
        alt="banner img or whatever"
-       style="border-radius: 15px;"
-  >
+       style="border-radius: 25px;"
+  />
 </p>
 
 Let’s start with the obligatory passion statement, because that seems necessary. Machine learning and complex systems provide a dynamic space for transforming abstract ideas into tangible models. In pursuit of knowledge, I'm driven by the endless possibilities of learning (both machine and deep).
