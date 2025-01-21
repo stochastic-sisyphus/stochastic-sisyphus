@@ -15,10 +15,11 @@
 <tr>
 <td width="50%" valign="top">
 
-Let's start with the obligatory passion statement, because that seems necessary.
 
-<div align="center" style="padding: 20px;">
-<kbd style="padding: 15px; font-size: 1.1em;">
+#### Let's start with the obligatory passion statement, because that seems necessary.
+
+<div align="center" style="margin: 25px 0;">
+<kbd style="display: block; padding: 25px; background-color: #f7f7f7; border-radius: 5px; font-size: 1.1em; line-height: 1.5;">
 Machine learning and complex systems provide a dynamic space for transforming abstract ideas into tangible models. In pursuit of knowledge, I'm driven by the endless possibilities of learning (both machine and deep).
 </kbd>
 </div>
