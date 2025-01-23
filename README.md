@@ -39,8 +39,7 @@ High confidence, very predictable
 
 ### Made Possible by Viewers Like You:
 Not a fixed stack, just the things I use (or break) the most, a special shoutout to Python
-- **Frameworks**: Python, PyTorch, TensorFlow, Keras, Scikit-Learn, XGBoost
-- **Systems**: Cloud pipelines, distributed processing, deployment, Docker, GPUs
+[![stack](https://skillicons.dev/icons?i=python,r,sql,bash,cpp,java,tensorflow,pytorch,sklearn,opencv,fastapi,flask,django,postgres,mysql,mongodb,sqlite,redis,aws,gcp,azure,docker,kubernetes,terraform,git,github,githubactions,selenium&theme=light&perline=6)](https://skillicons.dev)
 
 </td>
 </tr>
