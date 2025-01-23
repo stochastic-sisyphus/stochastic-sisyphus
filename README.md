@@ -39,7 +39,11 @@ High confidence, very predictable
 
 ### Made Possible by Viewers Like You:
 Not a fixed stack, just the things I use (or break) the most, a special shoutout to Python
-[![stack](https://skillicons.dev/icons?i=python,r,sql,bash,cpp,java,tensorflow,pytorch,sklearn,opencv,fastapi,flask,django,postgres,mysql,mongodb,sqlite,redis,aws,gcp,azure,docker,kubernetes,terraform,git,github,githubactions,selenium&theme=light&perline=6)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,sql,bash,tensorflow,pytorch,sklearn,fastapi,flask,django,postgres,mysql,mongodb,redis,aws,gcp,azure,docker,kubernetes,terraform,github&theme=light&perline=6" />
+  </a>
+</p>
 
 </td>
 </tr>
