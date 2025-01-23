@@ -4,7 +4,7 @@
 
 <p align="center">
   <kbd>
-    <img src="https://gist.github.com/user-attachments/assets/44d3a5c0-de23-40c8-bd61-3bb4ba8102d0" 
+    <img src="https://raw.githubusercontent.com/stochastic-sisyphus/stochastic-sisyphus/main/assets/sisyphus.jpeg" 
          width="52%" 
          alt="banner img or whatever"
     />
