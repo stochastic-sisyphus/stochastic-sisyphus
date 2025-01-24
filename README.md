@@ -10,11 +10,6 @@
     />
   </kbd>
 </p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
 <p align="center">
   <a href="https://bento.me/stochasticsisyphus">
     <img src="https://img.shields.io/badge/Everything%20In%20One%20Place-%239ABACF?style=for-the-badge&logo=appveyor&logoColor=white" alt="Everything In One Place">
@@ -27,6 +22,9 @@
   </a>
 </p>
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
 
 #### Let's start with the obligatory passion statement, because that seems necessary.
