@@ -48,13 +48,13 @@ Not a fixed stack, just the things I use (or break) the most, a special shoutout
 
 <p align="center">
   <a href="https://bento.me/stochasticsisyphus">
-    <img src="https://img.shields.io/badge/Bento.me-%23FF4088?style=for-the-badge" alt="Bento.me">
+    <img src="https://img.shields.io/badge/Clear%20Aggregation%20of%20Links-%239ABACF?style=for-the-badge&logo=appveyor&logoColor=white" alt="Bento.me">
   </a>
   <a href="https://github.com/stochastic-sisyphus/Portfolio">
-    <img src="https://img.shields.io/badge/GitHub%20Portfolio-%23181717?style=for-the-badge&logo=github" alt="GitHub Portfolio">
+    <img src="https://img.shields.io/badge/GitHub%20Portfolio%20(GRAVEYARD)-%23465A77?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio">
   </a>
   <a href="https://orcid.org/0009-0008-6611-535X">
-    <img src="https://img.shields.io/badge/ORCID-%2350C878?style=for-the-badge&logo=orcid" alt="ORCID">
+    <img src="https://img.shields.io/badge/My%20ORCID%20ID-%2369847E?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
   </a>
 </p>
 
