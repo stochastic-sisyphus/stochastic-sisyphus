@@ -15,10 +15,10 @@
     <img src="https://img.shields.io/badge/Everything%20In%20One%20Place-%239ABACF?style=for-the-badge&logo=appveyor&logoColor=white" alt="Everything In One Place">
   </a>
   <a href="https://github.com/stochastic-sisyphus/Portfolio">
-    <img src="https://img.shields.io/badge/GitHub%20Portfolio-%232E3B4E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio%20Repo-%232E3B4E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio">
   </a>
   <a href="https://github.com/stochastic-sisyphus/research">
-    <img src="https://img.shields.io/badge/GitHub%20Research-%232E3B4E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Research">
+    <img src="https://img.shields.io/badge/Research%20Repo-%232E3B4E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Research">
   </a>
   <a href="https://orcid.org/0009-0008-6611-535X">
     <img src="https://img.shields.io/badge/ORCID%20ID-%2369847E?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID ID">
