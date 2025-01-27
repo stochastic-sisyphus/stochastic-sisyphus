@@ -35,9 +35,11 @@ But that's just semantics.
 <td width="50%" valign="top">
 
 
+
 #### Let's start with the obligatory passion statement, because that seems necessary.
 
 > _My process is a perpetual cycle of curiosity, transforming complexity into understanding and expanding the limits of knowledge. Learning—machine, deep, and human_
+
 
 
 The machine is learning, under my supervision (of course). Ironically, I remain confused. Recursion: the cause and solution to all my problems. 
