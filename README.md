@@ -38,6 +38,7 @@ But that's just semantics.
 
 #### Let's start with the obligatory passion statement, because that seems necessary.
 
+
 > _My process is a perpetual cycle of curiosity, transforming complexity into understanding and expanding the limits of knowledge. Learning—machine, deep, and human_
 
 
