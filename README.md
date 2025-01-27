@@ -37,7 +37,7 @@ But that's just semantics.
 
 #### Let's start with the obligatory passion statement, because that seems necessary.
 
-> _Machine learning and complex systems provide a dynamic space for transforming abstract ideas into tangible models. In pursuit of knowledge, I'm driven by the endless possibilities of learning (both machine and deep)._
+> _My process is a perpetual cycle of curiosity, transforming complexity into understanding and expanding the limits of knowledge. Learning—machine, deep, and human_
 
 
 The machine is learning, under my supervision (of course). Ironically, I remain confused. Recursion: the cause and solution to all my problems. 
