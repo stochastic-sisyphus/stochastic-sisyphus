@@ -52,13 +52,13 @@ This is a snapshot of ongoing work and the evolution of my projects over time. M
 </td>
 <td width="50%" valign="top">
 
-### Typically Focused On:
+#### Typically Focused On:
 High confidence, very predictable
 - **Machine Learning**: Transformers, semantic search, multilingual modeling, contrastive learning, active learning, probabilistic models, causal inference, reinforcement learning, and algorithms that learn and some that refuse to behave
 - **NLP**: Retrieval, embeddings, language models, making models understand nuance (or at least fake it)
 - **Uncertainty & Complexity**: Finding patterns in noise, making sense of what isn't obvious, modeling causal relationships
 
-### Made Possible by Viewers Like You:
+#### Made Possible by Viewers Like You:
 Not a fixed stack, just the things I use (or break) the most, a special shoutout to Python
 - **Frameworks**: Python, PyTorch, TensorFlow, Keras, Scikit-Learn, XGBoost
 - **Systems**: Cloud pipelines, distributed processing, deployment, Docker, GPUs
