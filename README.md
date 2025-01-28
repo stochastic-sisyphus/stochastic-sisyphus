@@ -47,6 +47,8 @@ The machine is learning, under my supervision (of course). Ironically, I remain 
 
 The Sisyphean struggle means rolling the boulder in search of answers at the base, getting lost in thought, then pushing algorithms up the mountain with each iteration. As a masochist, I spend my time optimizing models that refuse to cooperate—because apparently, I find trial and error entertaining. 
 
+This is a snapshot of ongoing work and the evolution of my projects over time. Most code gets rewritten, some ideas never make it past their first push—an ongoing hypothesis test proving that not every idea deserves a second look.
+
 </td>
 <td width="50%" valign="top">
 
@@ -64,8 +66,6 @@ Not a fixed stack, just the things I use (or break) the most, a special shoutout
 </td>
 </tr>
 </table>
-
-This is a snapshot of ongoing work and the evolution of my projects over time. Most code gets rewritten, some ideas never make it past their first push—an ongoing hypothesis test proving that not every idea deserves a second look.
 
   ### The Cycle
 <table> <tr> <td> If nothing else, the name is accurate. Just me, the boulder, and the incline. </td> </tr> </table>
