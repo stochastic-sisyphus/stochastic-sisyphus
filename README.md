@@ -42,9 +42,8 @@ But that's just semantics.
 > ##### _My process is a perpetual cycle of curiosity, transforming complexity into understanding and expanding the limits of knowledge. Learning—machine, deep, and human_
 
 
-##### Honestly, the fact that I named my cat _Marvin Minsky_ is a better passion statement than any string of words I can come up with
+**Honestly, the fact that I named my cat _Marvin Minsky_ is a better passion statement than any string of words I can come up with**
 ---
-
 The machine is learning, under my supervision (of course). Ironically, I remain confused. Recursion: the cause and solution to all my problems. 
 
 The Sisyphean struggle means rolling the boulder in search of answers at the base, getting lost in thought, then pushing algorithms up the mountain with each iteration. As a masochist, I spend my time optimizing models that refuse to cooperate—because apparently, I find trial and error entertaining. 
