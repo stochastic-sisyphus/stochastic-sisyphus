@@ -17,7 +17,7 @@ But that's just semantics
     <img src="https://img.shields.io/badge/Everything%20In%20One%20Place-%239ABACF?style=for-the-badge&logo=appveyor&logoColor=white" alt="Everything In One Place">
   </a>
   <a href="https://stochastic-sisyphus.github.io/self/">
-    <img src="https://img.shields.io/badge/Concept%20Map-%23D0D0EA?style=for-the-badge&logo=github&logoColor=black" alt="self.define()">
+    <img src="https://img.shields.io/badge/self.define()-%23D0D0EA?style=for-the-badge&logo=github&logoColor=black" alt="self.define()">
   </a>
   <a href="https://github.com/stochastic-sisyphus/Portfolio">
     <img src="https://img.shields.io/badge/Portfolio%20Repo-%232E3B4E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio">
