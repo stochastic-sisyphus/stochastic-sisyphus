@@ -3,9 +3,8 @@
 <p align="center">
   <strong>Vanessa B, MSBA</strong>
 </p>
+
 But that's just semantics
-
-
 
 <p align="center">
   <kbd>
