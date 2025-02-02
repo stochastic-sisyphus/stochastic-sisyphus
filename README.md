@@ -92,6 +92,5 @@ Not a fixed stack, just the things I use (or break) the most, a special shoutout
   #### The Cycle
   If nothing else, the name is accurate. Just me, the boulder, and the incline. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perpetually uphill,**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Stochastic Sisyphus*
+  **Perpetually uphill,**
+  *Stochastic Sisyphus*
