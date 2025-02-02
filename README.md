@@ -29,7 +29,28 @@ But that's just semantics
     <img src="https://img.shields.io/badge/ORCID%20ID-%2369847E?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID ID">
   </a>
 </p>
+<details>
+<summary>
+<h2><code>$ find /me -type links</code></h2>
+<em>collection of my digital footprints</em>
+</summary>
 
+#### Projects
+- [The Prophecy of the Emergent Economy](https://github.com/stochastic-sisyphus/prophetic-emergentomics) - Working Paper
+- [Metadata-Driven LLM Framework](https://github.com/stochastic-sisyphus/Masters-Capstone-Bosch-Metadata-LLM) - Masters Capstone
+- [README.self](https://stochastic-sisyphus.github.io/self/) - Interactive Visualization of Self.Define(), git commit -m 'existence'
+
+#### Repositories
+- [Portfolio](https://github.com/stochastic-sisyphus/Portfolio) - Project Showcase
+- [Research](https://github.com/stochastic-sisyphus/research) - Research Repository
+
+#### Professional
+- [Bento Profile](https://bento.me/stochasticsisyphus) - Everything in One Place
+- [GitHub](https://github.com/stochastic-sisyphus) - Code & Projects
+- [LinkedIn](https://www.linkedin.com/in/vanessa-b-msba) - Professional Network
+- [ORCID](https://orcid.org/0009-0008-6611-535X) - ORCID Research ID
+</details>
+##### Epilogue
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -67,9 +88,8 @@ Not a fixed stack, just the things I use (or break) the most, a special shoutout
 </tr>
 </table>
 
-  ### The Cycle
-<table> <tr> <td> If nothing else, the name is accurate. Just me, the boulder, and the incline. </td> </tr> </table>
-
+  #### The Cycle
+  If nothing else, the name is accurate. Just me, the boulder, and the incline. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perpetually uphill,**
 
