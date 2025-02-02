@@ -50,7 +50,8 @@ But that's just semantics
 - [LinkedIn](https://www.linkedin.com/in/vanessa-b-msba) - Professional Network
 - [ORCID](https://orcid.org/0009-0008-6611-535X) - ORCID Research ID
 </details>
-##### Epilogue
+
+### Epilogue
 <table>
 <tr>
 <td width="50%" valign="top">
