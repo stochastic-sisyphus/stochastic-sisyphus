@@ -69,7 +69,6 @@ But that's just semantics
   </ul>
 </details>
 
-**Bio-ish** I tried
 <table><tr><td width="50%">
 
 **Let's start with the obligatory passion statement, because that seems necessary.**
