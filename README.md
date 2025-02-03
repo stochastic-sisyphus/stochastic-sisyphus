@@ -69,7 +69,7 @@ But that's just semantics
   </ul>
 </details>
 
-#### About Me (or whatever we're calling this)
+### About Me (or whatever we're calling this)
 
 <table><tr><td width="50%">
 
