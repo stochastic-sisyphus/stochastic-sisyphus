@@ -1,97 +1,95 @@
 # Welcome to the mountain. I'm Sisyphus, and this is my boulder.
 ### Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sisyphus™. Unless we're in reality, where I have a real name, allegedly.
+But that's just semantics
+
 <p align="center">
   <strong>Vanessa B, MSBA</strong>
 </p>
-But that's just semantics
+
+<p align="center">  
+  <small>Actually, let's go with <strong>MS</strong>. Being one letter away from MBA gets tiring (turns out B and A can stand for other words)</small>
+</p>
+
+<p align="center">
+  <strong>Vanessa B, MS</strong>
+</p>
+
+
 <p align="center">
   <kbd>
     <img src="https://raw.githubusercontent.com/stochastic-sisyphus/stochastic-sisyphus/main/assets/sisyphus.jpeg" 
          width="52%" 
-         alt="banner img or whatever"
-    />
+         alt="banner img or whatever" />
   </kbd>
 </p>
+
 <p align="center">
   <a href="https://bento.me/stochasticsisyphus">
-    <img src="https://img.shields.io/badge/Everything%20In%20One%20Place-%239ABACF?style=for-the-badge&logo=appveyor&logoColor=white" alt="Everything In One Place">
+    <img src="https://img.shields.io/badge/Everything%20In%20One%20Place-%239ABACF?style=for-the-badge&logo=appveyor&logoColor=white" alt="Everything In One Place" />
   </a>
   <a href="https://stochastic-sisyphus.github.io/self/">
-    <img src="https://img.shields.io/badge/self.define()-%23D0D0EA?style=for-the-badge&logo=github&logoColor=black" alt="self.define()">
+    <img src="https://img.shields.io/badge/self.define()-%23D0D0EA?style=for-the-badge&logo=github&logoColor=black" alt="self.define()" />
   </a>
   <a href="https://github.com/stochastic-sisyphus/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio%20Repo-%232E3B4E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio%20Repo-%232E3B4E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />
   </a>
   <a href="https://github.com/stochastic-sisyphus/research">
-    <img src="https://img.shields.io/badge/Research%20Repo-%232E3B4E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Research">
+    <img src="https://img.shields.io/badge/Research%20Repo-%232E3B4E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Research" />
   </a>
   <a href="https://orcid.org/0009-0008-6611-535X">
-    <img src="https://img.shields.io/badge/ORCID%20ID-%2369847E?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID ID">
+    <img src="https://img.shields.io/badge/ORCID%20ID-%2369847E?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID ID" />
   </a>
 </p>
+
 <details>
-<summary>
-<h2><code>$ find /me -type links</code></h2>
-<em>collection of my digital footprints</em>
-</summary>
+  <summary>
+    <h2><code>$ find /me -type links</code></h2>
+    <em>collection of my digital footprints</em>
+  </summary>
 
-#### Projects
-- [The Prophecy of the Emergent Economy](https://github.com/stochastic-sisyphus/prophetic-emergentomics) - Working Paper
-- [Metadata-Driven LLM Framework](https://github.com/stochastic-sisyphus/Masters-Capstone-Bosch-Metadata-LLM) - Masters Capstone
-- [README.self](https://stochastic-sisyphus.github.io/self/) - Interactive Visualization of Self.Define(), git commit -m 'existence'
+  <h4>Projects To Reference</h4>
+  <ul>
+    <li><a href="https://github.com/stochastic-sisyphus/prophetic-emergentomics">The Prophecy of the Emergent Economy</a> - Working Paper</li>
+    <li><a href="https://github.com/stochastic-sisyphus/Masters-Capstone-Bosch-Metadata-LLM">Leverage LLMs to Enrich Metadata for Internal Knowledge Retrieval</a> - Masters Capstone</li>
+    <li><a href="https://stochastic-sisyphus.github.io/self/">README.self</a> - because in chronic cases of moderate to severe existential crisis, force-directed intervention may be required</li>
+  </ul>
 
-#### Repositories
-- [Portfolio](https://github.com/stochastic-sisyphus/Portfolio) - Project Showcase
-- [Research](https://github.com/stochastic-sisyphus/research) - Research Repository
+  <h4>Central Repositories</h4>
+  <ul>
+    <li><a href="https://github.com/stochastic-sisyphus/Portfolio">Portfolio</a> - GitHub Portfolio Repo</li>
+    <li><a href="https://github.com/stochastic-sisyphus/research">Research</a> - GitHub Research Hub Repo</li>
+  </ul>
 
-#### Professional
-- [Bento Profile](https://bento.me/stochasticsisyphus) - Everything in One Place
-- [GitHub](https://github.com/stochastic-sisyphus) - Code & Projects
-- [LinkedIn](https://www.linkedin.com/in/vanessa-b-msba) - Professional Network
-- [ORCID](https://orcid.org/0009-0008-6611-535X) - ORCID Research ID
+  <h4>Profiles</h4>
+  <ul>
+    <li><a href="https://bento.me/stochasticsisyphus">Omni-Link</a> - All Links in One Link</li>
+    <li><a href="https://github.com/stochastic-sisyphus">GitHub</a> - Github Profile</li>
+    <li><a href="https://www.linkedin.com/in/vanessa-b-msba">LinkedIn</a> - LinkedIn</li>
+    <li><a href="https://orcid.org/0009-0008-6611-535X">ORCID</a> - ORCID Research ID</li>
+  </ul>
 </details>
 
-### Epilogue
-<table>
-<tr>
-<td width="50%" valign="top">
+### Prologue to the Epilogue
+<table><tr><td width="50%">
 
-
-
-#### Let's start with the obligatory passion statement, because that seems necessary.
-
-
-> #### _My process is a perpetual cycle of curiosity, transforming complexity into understanding and expanding the limits of knowledge. Learning—machine, deep, and human_
-
-#### Honestly, the fact that I named my cat _Marvin Minsky_ is a better passion statement than any string of words I can come up with
----
-The machine is learning, under my supervision (of course). Ironically, I remain confused. Recursion: the cause and solution to all my problems. 
-
-The Sisyphean struggle means rolling the boulder in search of answers at the base, getting lost in thought, then pushing algorithms up the mountain with each iteration. As a masochist, I spend my time optimizing models that refuse to cooperate—because apparently, I find trial and error entertaining. 
-
-This is a snapshot of ongoing work and the evolution of my projects over time. Most code gets rewritten, some ideas never make it past their first push—an ongoing hypothesis test proving that not every idea deserves a second look.
-
+**Let's start with the obligatory passion statement, because that seems necessary.**
+> *My process is a perpetual cycle of curiosity, transforming complexity into understanding and expanding the limits of knowledge. Learning—machine, deep, and human*
+##### Honestly, the fact that I named my cat *Marvin Minsky* is a better passion statement than any string of words I can come up with
+The machine is learning, under my supervision (of course). As a masochist, I spend my time optimizing models that refuse to cooperate—because apparently, I find trial and error entertaining. This is a snapshot of ongoing work and the evolution of my projects over time. Some work, some don't. Not every idea is worth a second push.
 </td>
 <td width="50%" valign="top">
-
-#### Typically Focused On:
-High confidence, very predictable
-- **Machine Learning**: Transformers, semantic search, multilingual modeling, contrastive learning, active learning, probabilistic models, causal inference, reinforcement learning, and algorithms that learn and some that refuse to behave
-- **NLP**: Retrieval, embeddings, language models, making models understand nuance (or at least fake it)
-- **Uncertainty & Complexity**: Finding patterns in noise, making sense of what isn't obvious, modeling causal relationships
-
-#### Made Possible by Viewers Like You:
-Not a fixed stack, just the things I use (or break) the most, a special shoutout to Python
-- **Frameworks**: Python, PyTorch, TensorFlow, Keras, Scikit-Learn, XGBoost
-- **Systems**: Cloud pipelines, distributed processing, deployment, Docker, GPUs
-
-</td>
-</tr>
-</table>
-
-  #### The Cycle
-  If nothing else, the name is accurate. Just me, the boulder, and the incline. 
-
-  **Perpetually uphill,**
   
-  *Stochastic Sisyphus*
+**Typically Focused On:** High confidence, very predictable
+- **Machine Learning:** Transformers, semantic search, multilingual models, active learning, and algorithms (both cooperative and rebellious)
+- **NLP:** Retrieval, embeddings, LLMs, and teaching machines to understand context 
+- **Data Science:** Pattern recognition, causality, uncertainty quantification
+
+**Made Possible by Viewers Like You:** Not a fixed stack, just the things I use (or break) the most, a special shoutout to Python
+- Built with Python and friends: PyTorch, TensorFlow, Scikit-Learn, whatever cloud/GPU setup I have the bandwidth to deal with today
+
+</td></tr></table>
+
+### The Cycle
+#### If nothing else, the name is accurate. Just me, the boulder, and the incline.
+### **Perpetually uphill,**
+### *Stochastic Sisyphus*
