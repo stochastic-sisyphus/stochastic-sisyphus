@@ -63,6 +63,7 @@ But that's just semantics
   <h4>Profiles</h4>
   <ul>
     <li><a href="https://bento.me/stochasticsisyphus">Omni-Link</a> - All Links in One Link</li>
+    <li><a href="https://taxes-clean-ysx.craft.me/VB-MSBA-Directory">Index-but-as-PDF</a> - The Same Idea, All of the Links in One Link: the Sequel (PDF Version)</li>
     <li><a href="https://github.com/stochastic-sisyphus">GitHub</a> - Github Profile</li>
     <li><a href="https://www.linkedin.com/in/vanessa-b-msba">LinkedIn</a> - LinkedIn</li>
     <li><a href="https://orcid.org/0009-0008-6611-535X">ORCID</a> - ORCID Research ID</li>
