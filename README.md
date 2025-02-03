@@ -69,7 +69,7 @@ But that's just semantics
   </ul>
 </details>
 
-### ~Bio~ ~About Me~ whatever this is supposed to be, lets call it assorted words
+### ~Bio~ ? ~About Me~ ? Whatever this is supposed to be, lets call it assorted words
 
 <table><tr><td width="50%">
 
