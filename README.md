@@ -69,7 +69,7 @@ But that's just semantics
   </ul>
 </details>
 
-### ~about me~, ~bio~, these titles feel too generous, here are some sentences I guess 
+**Bio-ish** I tried
 <table><tr><td width="50%">
 
 **Let's start with the obligatory passion statement, because that seems necessary.**
