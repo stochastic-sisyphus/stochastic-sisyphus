@@ -69,7 +69,8 @@ But that's just semantics
   </ul>
 </details>
 
-### Prologue to the Epilogue
+#### About Me (or whatever we're calling this)
+
 <table><tr><td width="50%">
 
 **Let's start with the obligatory passion statement, because that seems necessary.**
