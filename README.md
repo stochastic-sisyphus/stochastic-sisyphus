@@ -69,8 +69,7 @@ But that's just semantics
   </ul>
 </details>
 
-### ~about me~, assorted words, whatever this is supposed to be
-
+### ~about me~, ~bio~, these titles feel too generous, here are some sentences I guess 
 <table><tr><td width="50%">
 
 **Let's start with the obligatory passion statement, because that seems necessary.**
