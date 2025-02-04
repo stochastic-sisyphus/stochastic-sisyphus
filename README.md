@@ -1,12 +1,11 @@
 # Welcome to the mountain. I'm Sisyphus, and this is my boulder.
 
-Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sisyphus™. Unless we're in reality, where I have a real name, allegedly.
+Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sisyphus™. Unless we're in reality, where I have a real name, allegedly. But that's just semantics
 
-But that's just semantics
+<h3 align="center">Vanessa B, MSBA</h3>
+<div align="center"><sub>Alternatively, if being one letter off from MBA is unclear, let's use <strong>MS</strong></sub></div>
+<h3 align="center">Vanessa B, MS</h3>
 
-### Vanessa B, MSBA
-<sub>Alternatively, if being one letter off from MBA is unclear, let's use **MS**</sub>
-### Vanessa B, MS
 
 <p align="center">
   <kbd>
