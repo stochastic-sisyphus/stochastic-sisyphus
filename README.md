@@ -2,17 +2,20 @@
 ### Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sisyphus™. Unless we're in reality, where I have a real name, allegedly.
 But that's just semantics
 
-<p align="center">
-  <h3 style="margin: 0; text-align: center; display: block; width: 100%; margin-left: auto; margin-right: auto; text-align: center !important;">Vanessa B, MSBA</h3>
-</p>
+<div style="text-align: center; width: 100%;">
+  <h3 style="margin: 0;">Vanessa B, MSBA</h3>
+</div>
 
-<p align="center">
-  <sup><sub style="margin: 0; padding: 0; text-align: center;">Alternatively, if being one letter off from MBA is unclear, let's use <strong>MS</strong>. (I realize this might seem counterintuitive, but B and A can represent different terms.)</sub></sup>
-</p>
+<div style="text-align: center; width: 100%;">
+  <p style="margin: 0; font-size: 0.75em; color: #666;">
+    Alternatively, if being one letter off from MBA is unclear, let's use <strong>MS</strong>. 
+    (I realize this might seem counterintuitive, but B and A can represent different terms.)
+  </p>
+</div>
 
-<p align="center">
-  <h4 style="margin: 0; text-align: center; display: block; width: 100%; margin-left: auto; margin-right: auto; text-align: center !important;">Vanessa B, MS</h4>
-</p>
+<div style="text-align: center; width: 100%;">
+  <h4 style="margin: 0;">Vanessa B, MS</h4>
+</div>
 
 <p align="center">
   <kbd>
