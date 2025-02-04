@@ -3,7 +3,9 @@
 Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sisyphus™. Unless we're in reality, where I have a real name, allegedly. But that's just semantics
 
 <h3 align="center">Vanessa B, MSBA</h3>
-<div align="center"><sub>Alternatively, if being one letter off from MBA is unclear, let's use <strong>MS</strong></sub></div>
+
+<sub>Alternatively, if being one letter off from MBA is unclear, let's use **MS**</sub>
+
 <h3 align="center">Vanessa B, MS</h3>
 
 
