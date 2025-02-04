@@ -1,16 +1,17 @@
 # Welcome to the mountain. I'm Sisyphus, and this is my boulder.
 ### Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sisyphus™. Unless we're in reality, where I have a real name, allegedly.
 But that's just semantics
+
 <p align="center">
   <h3>Vanessa B, MSBA</h3>
 </p>
 <p align="center" style="margin-top: 0px; margin-bottom: 0px;">
     <sup><sub>Alternatively, if being one letter off from MBA is unclear, let's use <strong>MS</strong>. (I realize this might seem counterintuitive, but B and A can represent different terms.)</sub></sup>
 </p>
+
 <p align="center">
   <h4>Vanessa B, MS</h4>
 </p>
-
 
 <p align="center">
   <kbd>
