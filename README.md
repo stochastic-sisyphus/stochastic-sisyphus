@@ -2,11 +2,12 @@
 #### Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sisyphus™. Unless we're in reality, where I have a real name, allegedly.
 But that's just semantics
 
-<h4 align="center">Vanessa B, MSBA</h3>
+<h3 align="center" style="margin-bottom: 0;">Vanessa B, MSBA</h3>
 
-<p align="center"><sub>Alternatively, if being one letter off from MBA is unclear, let's use <strong>MS</strong>. (I realize this might seem counterintuitive, but B and A can represent different terms.)</sub></p>
+<p align="center" style="margin: 0;"><sub>Alternatively, if being one letter off from MBA is unclear, let's use <strong>MS</strong>. (I realize this might seem counterintuitive, but B and A can represent different terms.)</sub></p>
 
-<h5 align="center">Vanessa B, MS</h4>
+<h4 align="center" style="margin-top: 0;">Vanessa B, MS</h4>
+
 
 <p align="center">
   <kbd>
