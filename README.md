@@ -7,7 +7,7 @@ But that's just semantics
 </p>
 
 <p align="center">  
-  <small>Actually, let's go with <strong>MS</strong>. Being one letter away from MBA gets tiring (turns out B and A can stand for other words)</small>
+  <small>Alternatively, if being one letter off from MBA is unclear, let’s use <strong>MS</strong>. (I realize this might seem counterintuitive, but B and A can represent different terms.))</small>
 </p>
 
 <p align="center">
