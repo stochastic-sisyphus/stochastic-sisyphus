@@ -1,21 +1,12 @@
 # Welcome to the mountain. I'm Sisyphus, and this is my boulder.
-### Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sisyphus™. Unless we're in reality, where I have a real name, allegedly.
+#### Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sisyphus™. Unless we're in reality, where I have a real name, allegedly.
 But that's just semantics
 
-<div style="text-align: center; width: 100%;">
-  <h3 style="margin: 0;">Vanessa B, MSBA</h3>
-</div>
+<h4 align="center">Vanessa B, MSBA</h3>
 
-<div style="text-align: center; width: 100%;">
-  <p style="margin: 0; font-size: 0.75em; color: #666;">
-    Alternatively, if being one letter off from MBA is unclear, let's use <strong>MS</strong>. 
-    (I realize this might seem counterintuitive, but B and A can represent different terms.)
-  </p>
-</div>
+<p align="center"><sub>Alternatively, if being one letter off from MBA is unclear, let's use <strong>MS</strong>. (I realize this might seem counterintuitive, but B and A can represent different terms.)</sub></p>
 
-<div style="text-align: center; width: 100%;">
-  <h4 style="margin: 0;">Vanessa B, MS</h4>
-</div>
+<h5 align="center">Vanessa B, MS</h4>
 
 <p align="center">
   <kbd>
