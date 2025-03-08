@@ -32,9 +32,9 @@ Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sis
   </a>
 </p>
 
-Please click the tiny toggle below; it may be a tiny triangle but it contains the most straightforward direct reference 
-<
-  details>
+<sub> Please click the tiny toggle below; it may be a tiny triangle but it contains the most straightforward direct reference 
+
+<details>
   <summary>
     <h2><code>$ find /me -type links</code></h2>
     <em>collection of my digital footprints</em>
