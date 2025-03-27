@@ -46,6 +46,8 @@ Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sis
     <li><a href="https://github.com/stochastic-sisyphus/Masters-Capstone-Bosch-Metadata-LLM">Leverage LLMs to Enrich Metadata for Internal Knowledge Retrieval</a> - Masters Capstone</li>
     <li><a href="https://stochastic-sisyphus.github.io/self/">README.self</a> - because in chronic cases of moderate to severe existential crisis, force-directed intervention may be required</li>
     <li><a href="https://github.com/stochastic-sisyphus/Portfolio/tree/main/Machine-Learning-and-Deep-Learning/recommender-systems">Recommendation Engine</a> - Would feel wromg not adding any sort of recommendation system 
+    <li><a href="https://github.com/stochastic-sisyphus/chipop-pred-apropos">Chicago Population Forecast by Zip</a> Predict where people will be before they can predict it themselves      
+    </li>
   </ul>
 
   <h4>Central Repositories</h4>
