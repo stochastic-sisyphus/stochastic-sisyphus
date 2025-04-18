@@ -42,11 +42,14 @@ Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sis
 
   <h4>Projects To Reference</h4>
   <ul>
-    <li><a href="https://github.com/stochastic-sisyphus/prophetic-emergentomics">The Prophecy of the Emergent Economy</a> - Working Paper</li>
-    <li><a href="https://github.com/stochastic-sisyphus/Masters-Capstone-Bosch-Metadata-LLM">Leverage LLMs to Enrich Metadata for Internal Knowledge Retrieval</a> - Masters Capstone</li>
-    <li><a href="https://stochastic-sisyphus.github.io/self/">README.self</a> - because in chronic cases of moderate to severe existential crisis, force-directed intervention may be required</li>
-    <li><a href="https://github.com/stochastic-sisyphus/Portfolio/tree/main/Machine-Learning-and-Deep-Learning/recommender-systems">Recommendation Engine</a> - Would feel wromg not adding any sort of recommendation system 
-    <li><a href="https://github.com/stochastic-sisyphus/chipop-pred-apropos">Chicago Population Forecast by Zip</a> - Predict where people will be before they can predict it themselves      
+    <li><a href="https://github.com/stochastic-sisyphus/prophetic-emergentomics">The Prophecy of the Emergent Economy</a> – Working Paper</li>
+    <li><a href="https://github.com/stochastic-sisyphus/Masters-Capstone-Bosch-Metadata-LLM">Leverage LLMs to Enrich Metadata for Internal Knowledge Retrieval</a> – Masters Capstone</li>
+    <li><a href="https://stochastic-sisyphus.github.io/self/">README.self</a> – because in chronic cases of moderate to severe existential crisis, force-directed intervention may be required</li>
+    <li><a href="https://github.com/stochastic-sisyphus/Portfolio/tree/main/Machine-Learning-and-Deep-Learning/recommender-systems">Recommendation Engine</a> – Would feel wromg not adding any sort of recommendation system</li>
+    <li><a href="https://github.com/stochastic-sisyphus/chipop-pred-apropos">Chicago Population Forecast by Zip</a> – Predict where people will be before they can predict it themselves</li>
+    <li><a href="https://github.com/stochastic-sisyphus/code-cartographer">Code Cartographer</a> – Deep static analyzer for Python.  
+        Hashes full definitions, flags complexity, groups variants.  
+        <em>“If Git is for branches, this is for forks of forks.”</em>
     </li>
   </ul>
 
