@@ -6,13 +6,7 @@ Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sis
 
 <sub> Alternatively, if being one letter off from MBA is unclear, let's use **MS** ;</sub> **Vanessa B, MS** 
 
-<p align="center">
-  <kbd>
-    <img src="https://raw.githubusercontent.com/stochastic-sisyphus/stochastic-sisyphus/main/assets/sisyphus.jpeg" 
-         width="52%" 
-         alt="banner img or whatever" />
-  </kbd>
-</p>
+---
 
 <p align="center">
   <a href="https://bento.me/stochasticsisyphus">
