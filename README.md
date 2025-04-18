@@ -45,7 +45,7 @@ Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sis
         <em>“If Git is for branches, this is for forks of forks.”</em>
     </li>
     <li><a href="https://github.com/stochastic-sisyphus/feature-selection-optuna-remix">Feature Selection Remix</a> – Explore dimensionality, optimize performance, and let Optuna decide what's worth keeping</li>
-    <li><a href="https://github.com/stochastic-sisyphus/sssynsearch">Sssynsearch</a> – Custom semantic search with sentence transformers. Embeddings, distilled.</li>
+    <li><a href="https://github.com/stochastic-sisyphus/ssynsearch">SynSearch</a> – Custom semantic search with sentence transformers. Embeddings, distilled.</li>
     <li><a href="https://github.com/stochastic-sisyphus/Portfolio/tree/main/Machine-Learning-and-Deep-Learning/recommender-systems">Recommendation Engine</a> – Would feel wromg not adding any sort of recommendation system</li>
     <li><a href="https://github.com/stochastic-sisyphus/Masters-Capstone-Bosch-Metadata-LLM">Leverage LLMs to Enrich Metadata for Internal Knowledge Retrieval</a> – Masters Capstone</li>
     <li><a href="https://github.com/stochastic-sisyphus/prophetic-emergentomics">The Prophecy of the Emergent Economy</a> – Working Paper</li>
