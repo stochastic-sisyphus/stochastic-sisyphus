@@ -4,6 +4,8 @@ Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sis
 
 <h3 align="center">Vanessa Beck, M.S. Analytics - Machine Learning Specialization</h3>
 
+**if the machine learns, why do i need to syoervise it?** 
+
 ---
 
 <p align="center">
