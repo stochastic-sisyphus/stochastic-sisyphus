@@ -1,10 +1,19 @@
 # Welcome to the mountain. I'm Sisyphus, and this is my boulder.
+## Welcome to Schrodinger's GitHub I guess
+### Schrodinger's Mountain? 
 
-Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sisyphus™. Unless we're in reality, where I have a real name, allegedly. But that's just semantics
+Well, to be precise, I'm clearly not - but you, reader, can't really _know_ that for sure, can you? Trick question! This is Schrodinger's Mountain lol 
+
+No I really am him, with an adjective slapped in front: Stochastic Sisyphus™. Unless we're in reality, where I have a real name, allegedly. But that's just semantics
 
 <h3 align="center">Vanessa Beck, M.S. Analytics - Machine Learning Specialization</h3>
 
+I did not enjoy that
+but there comes a time in a woman's life where she has to take that step and establish a digital footprint, you know?
+brb have to be very strange give me a sec to play linkedin bc I refuse to leave a footprint on that one srsly 
+
 **if the machine learns, why do i need to supervise it?** 
+ok cmon, thats punny 
 
 ---
 
@@ -72,8 +81,8 @@ Well, to be precise—I'm him with an adjective slapped in front: Stochastic Sis
 <table><tr><td width="50%">
 
 **Let's start with the obligatory passion statement, because that seems necessary.**
-> *My process is a perpetual cycle of curiosity, transforming complexity into understanding and expanding the limits of knowledge. Learning—machine, deep, and human*
-##### Honestly, the fact that I named my cat *Marvin Minsky* is a better passion statement than any string of words I can come up with
+> Ehh feels strange, I'd really rather not if thats cool 
+> Honestly, the fact that I named my cat *Marvin Minsky* is a better passion statement than any string of words I can come up with
 The machine is learning, under my supervision (of course). As a masochist, I spend my time optimizing models that refuse to cooperate—because apparently, I find trial and error entertaining. This is a snapshot of ongoing work and the evolution of my projects over time. Some work, some don't. Not every idea is worth a second push.
 </td>
 <td width="50%" valign="top">
