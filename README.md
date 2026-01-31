@@ -83,6 +83,7 @@ ok cmon, thats punny
 **Let's start with the obligatory passion statement, because that seems necessary.** Ehh feels strange, I'd really rather not if thats cool 
 
 > Honestly, the fact that I named my cat *Marvin Minsky* is a better passion statement than any string of words I can come up with
+
 The machine is learning, under my supervision (of course). As a masochist, I spend my time optimizing models that refuse to cooperate—because apparently, I find trial and error entertaining. This is a snapshot of ongoing work and the evolution of my projects over time. Some work, some don't. Not every idea is worth a second push.
 </td>
 <td width="50%" valign="top">
