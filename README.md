@@ -1,19 +1,14 @@
-# Welcome to the mountain. I'm Sisyphus, and this is my boulder.
+# what do u want from me
 ## Welcome to Schrodinger's GitHub I guess
 ### Schrodinger's Mountain? 
 
-Well, to be precise, I'm clearly not - but you, reader, can't really _know_ that for sure, can you? Trick question! This is Schrodinger's Mountain lol 
+—-
 
-No I really am him, with an adjective slapped in front: Stochastic Sisyphus™. Unless we're in reality, where I have a real name, allegedly. But that's just semantics
+# reinventing the wheel.toml
 
-<h3 align="center">Vanessa Beck, M.S. Analytics - Machine Learning Specialization</h3>
+[tools]
+"pipx:wheel" = "latest"   # someone competent already did
 
-I did not enjoy that
-but there comes a time in a woman's life where she has to take that step and establish a digital footprint, you know?
-brb have to be very strange give me a sec to play linkedin bc I refuse to leave a footprint on that one srsly 
-
-**if the machine learns, why do i need to supervise it?** 
-ok cmon, thats punny 
 
 ---
 
@@ -80,25 +75,3 @@ ok cmon, thats punny
 
 <table><tr><td width="50%">
 
-**Let's start with the obligatory passion statement, because that seems necessary.** Ehh feels strange, I'd really rather not if thats cool 
-
-> Honestly, the fact that I named my cat *Marvin Minsky* is a better passion statement than any string of words I can come up with
-
-The machine is learning, under my supervision (of course). As a masochist, I spend my time optimizing models that refuse to cooperate—because apparently, I find trial and error entertaining. This is a snapshot of ongoing work and the evolution of my projects over time. Some work, some don't. Not every idea is worth a second push.
-</td>
-<td width="50%" valign="top">
-  
-**Typically Focused On:** High confidence, very predictable
-- **Machine Learning:** Transformers, semantic search, multilingual models, active learning, and algorithms (both cooperative and rebellious)
-- **NLP:** Retrieval, embeddings, LLMs, and teaching machines to understand context 
-- **Data Science:** Pattern recognition, causality, uncertainty quantification
-
-**Made Possible by Viewers Like You:** Not a fixed stack, just the things I use (or break) the most, a special shoutout to Python
-- Built with Python and friends: PyTorch, TensorFlow, Scikit-Learn, whatever cloud/GPU setup I have the bandwidth to deal with today
-
-</td></tr></table>
-
-### The Cycle
-#### If nothing else, the name is accurate. Just me, the boulder, and the incline.
-### **Perpetually uphill,**
-### *Stochastic Sisyphus*
