@@ -15,5 +15,7 @@ requires = ["wheel"]   # someone competent already did
 
 [ORCID](https://orcid.org/0009-0008-6611-535X) - checksummed
 
+[github](https://github.com/stochastic-sisyphus) - committed
+
 [schrodingers.site](https://schrodingers.site) - indeterminacy
 
